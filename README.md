@@ -6,7 +6,7 @@
 
 直接点击创建即可
 
-配合 remotemysql.com 数据库  延迟3秒左右
+地点选择 欧洲 配合 remotemysql.com 数据库  延迟1秒左右
 
 
 注意：上传时把  .gitignore 文件去掉 这是git提交过滤的文件 默认不提交thinkphp核心文件夹和publik下的static文件夹   就是删除根think根目录下的.gitignore 和static下的.gitignore
