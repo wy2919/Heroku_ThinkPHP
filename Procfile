@@ -1,1 +1,1 @@
-web: vendor/bin/heroku-php-apache2 web/images/
+web: vendor/bin/heroku-php-apache2 20210909ditanshequ/public/
