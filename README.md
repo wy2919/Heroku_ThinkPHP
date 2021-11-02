@@ -13,5 +13,5 @@
 
 在根目录的Procfile文件中配置了Php运行的根目录
 
-> [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/wy2919/php-getting-started)
+> [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/wy2919/Heroku_ThinkPHP)
 
