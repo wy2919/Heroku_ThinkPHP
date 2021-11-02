@@ -67,8 +67,9 @@ class BaseService
      */
     public function getLimit($pagesize){
 //         $limit = $this->session->getConfig('SYSTEM_CONFIG_SESSION')['cfg_pagenum'];
+        // 默认显示15条
         if (!empty($pagesize)) {
-            $limit = $pagesize;
+            return $pagesize;
         }
         return 15;
     }
