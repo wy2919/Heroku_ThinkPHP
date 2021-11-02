@@ -169,7 +169,7 @@ class BaseService
                 $tmp_arr[] = $v[$key];
             }
         }
-        foreach ($tmp_arr as $k=>$v){
+        foreach ($tmp_arr as $k=>$v){ 
             $tmp_arr[$k] = [$key=>$v];
         }
         return $tmp_arr;
