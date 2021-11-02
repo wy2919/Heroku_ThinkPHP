@@ -18,7 +18,7 @@ $ heroku open
 
 or
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+> [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/wy2919/php-getting-started)
 
 ## Documentation
 
