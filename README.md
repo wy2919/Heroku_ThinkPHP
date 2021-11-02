@@ -1,4 +1,4 @@
-# php-getting-started
+# Heroku_ThinkPHP
 
 基于ThinkPHP的Heroku项目
 
