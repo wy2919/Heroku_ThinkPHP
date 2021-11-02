@@ -67,9 +67,9 @@ class BaseService
      */
     public function getLimit($pagesize){
 //         $limit = $this->session->getConfig('SYSTEM_CONFIG_SESSION')['cfg_pagenum'];
-//         if (!empty($pagesize)) {
-//             $limit = $pagesize;
-//         }
+        if (!empty($pagesize)) {
+            $limit = $pagesize;
+        }
         return 15;
     }
 
