@@ -1,0 +1,17 @@
+<?php
+/**
+ * Created by yongjiapei.
+ * User: MSI_PhpStorm
+ */
+
+namespace {%namespace%};
+
+use think\Controller;
+use Request;
+
+class {%className%} extends Controller{
+    // 初始化
+    protected function initialize(){
+
+    }
+}
